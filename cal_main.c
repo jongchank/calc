@@ -1,4 +1,6 @@
-/* calc.c */
+/* 
+ * calc.c
+ */
 
 #include <stdio.h>
 #include <stdlib.h>
